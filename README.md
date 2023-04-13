@@ -7,8 +7,6 @@ It is mainly used in text classification that includes a high-dimensional traini
 # Bayes' Theorem:
 Bayes' theorem is also known as Bayes' Rule or Bayes' law, which is used to determine the probability of a hypothesis with prior knowledge. It depends on the conditional probability.
 The formula for Bayes' theorem is given as:
-Naïve Bayes Classifier Algorithm
-Where,
 
 P(A|B) is Posterior probability: Probability of hypothesis A on the observed event B.
 

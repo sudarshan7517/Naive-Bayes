@@ -1,10 +1,8 @@
-# Naive-Bayes
+# Naive-Bayes Theorem:
 
 Naïve Bayes algorithm is a supervised learning algorithm, which is based on Bayes theorem and used for solving classification problems.
 It is mainly used in text classification that includes a high-dimensional training dataset.
 
-
-# Bayes' Theorem:
 Bayes' theorem is also known as Bayes' Rule or Bayes' law, which is used to determine the probability of a hypothesis with prior knowledge. It depends on the conditional probability.
 The formula for Bayes' theorem is given as:
 
